@@ -1,1 +1,1 @@
-# Laravel_projects
+# Laravel demo projects and work I did as an intern in laravel
